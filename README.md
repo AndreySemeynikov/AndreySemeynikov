@@ -3,10 +3,9 @@
 🚀 My Interests:
 - 📚 Learning and continuously improving skills in the field of development.
 - ☕ Java: Exploring the capabilities of this versatile programming language.
-- 🧑‍💻 C++: Studying the powerful features of this language for more efficient development.
 
 💼 Experience:
-- 🎓 I am a student at [Your University/Institute].
+- 🎓 I am a student at BSU.
 
 🤹‍♂️ Skills:
 - 💻 Java
