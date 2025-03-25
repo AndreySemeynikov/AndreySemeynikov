@@ -9,10 +9,8 @@
 
 🤹‍♂️ Skills:
 - 💻 Java
-- 💻 C++
 - 🧠 Algorithms and data structures
 - 🛠 Git and version control systems
-- 🚀 Object-oriented programming and functional programming
 
 📫 Let's connect:
 - 📧 Email: [andrey.semeynikov@gmail.com]
