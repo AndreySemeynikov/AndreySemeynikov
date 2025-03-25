@@ -14,6 +14,6 @@
 
 📫 Let's connect:
 - 📧 Email: [andrey.semeynikov@gmail.com]
-- 💼 LinkedIn: [www.linkedin.com/in/andrey-semeynikov-32a240257/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/andrey-semeynikov/]
 
 🌱 I'm always open to new opportunities for collaboration and learning. Let's create something great together! 🚀
